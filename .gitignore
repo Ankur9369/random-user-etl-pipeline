@@ -19,6 +19,7 @@ ENV/
 
 # ETL-generated data and runtime files
 etl_database.db
+etl_project.py
 *.sqlite
 *.sqlite3
 logs/
